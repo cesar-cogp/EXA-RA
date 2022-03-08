@@ -39,3 +39,7 @@ td{
     vertical-align: top;
     border: 1px solid white;
 }
+#pic {
+    width: 250;
+    heigth: 250;
+}
